@@ -1,0 +1,6 @@
+jsonschema==3.2.0
+numpy==1.21.5
+nltk==3.8.1
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
+gensim==4.3.2
