@@ -24,7 +24,7 @@
     
 Для питона должны быть загружены следующие ПАКЕТЫ:    
     
-```python
+```bash
 python3 -m pip install -r requirements.txt    
 ```
     
@@ -33,11 +33,11 @@ python3 -m pip install -r requirements.txt
     
 ## :: ПОРЯДОК РАБОТЫ ::    
    
-```python
+```bash
 python3 main.py --input_file example_input.json    
 ```
     
-### Пример ВХОДНОГО файла `example_input.json` для тестирования с точностью до запятой:    
+### Пример ВХОДНОГО файла `example_input.json` для тестирования:    
 
 ```json    
 {        
@@ -47,7 +47,7 @@ python3 main.py --input_file example_input.json
 }        
 ```
 
-### Пример ВЫХОДНОГО файла example_input.json:    
+### Пример ВЫХОДНОГО файла `example_input.json`:    
 
 ```json
 {    
