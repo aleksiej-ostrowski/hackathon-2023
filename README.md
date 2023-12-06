@@ -28,8 +28,7 @@
 python3 -m pip install -r requirements.txt    
 ```
     
-2) `/data/corpus.bin` это файл `model.bin` из архива    
-[ruwikiruscorpora_upos_cbow_300](https://rusvectores.org/en/models/#ruwikiruscorpora_upos_cbow_300_10_2021)
+`/data/corpus.bin` это файл `model.bin` из архива [ruwikiruscorpora_upos_cbow_300](https://rusvectores.org/en/models/#ruwikiruscorpora_upos_cbow_300_10_2021)
     
 ## :: ПОРЯДОК РАБОТЫ ::    
    
